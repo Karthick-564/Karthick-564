@@ -22,15 +22,18 @@
 
 ##  Featured projects
 
-**Multi-Agent Orchestration System**
-Four specialised AI agents (engineering, creative, economic, ethical) evaluate an idea from different angles, and their outputs are synthesised into one recommendation. RAG with FAISS and Sentence-Transformers, Flask API, React + TypeScript frontend. *Innovate and Build finalist.*
 
-**Skill-Based Matching Platform**
-Full-stack app that matches volunteers with opportunities using a hybrid recommender (collaborative + content-based filtering). Flask REST API and PostgreSQL.
+**[ContextIQ Hybrid RAG](https://github.com/Karthick-564/ContextIQ_Hybrid_RAG)**
+Production-ready RAG chatbot with hybrid search, cross-encoder reranking, MongoDB Atlas vector storage, and Groq streaming.
 
-**Predictive Aviation Analytics Pipeline**
-End-to-end pipeline over 1.7M+ US flight records for delay prediction: cleaning, feature engineering, PCA, and an interactive Streamlit dashboard.
+**[Multilingual Business Entity Resolution](https://github.com/Karthick-564/Multilingual_Business_Entity_Resolution)**
+Multilingual entity resolution and record-linkage pipeline for the Amazon ML Challenge. 0.968 Macro F0.5 on the public leaderboard (rank under 2,000 of 36,000 teams).
 
+**[Touch the Grass](https://github.com/Karthick-564/Hacktoberfest-Touch_the_grass)**
+Voice-first, screen-minimizing AI nature companion using Gemma 2 (Ollama), ElevenLabs real-time speech, and FastAPI.
+
+**[Predictive Aviation Analytics](https://github.com/Karthick-564/Predictive_Aviation_Analytics_Platform)**
+Analysis of 1.7M US flight records to find the root causes of delays.
 
 ##  Reach me
 

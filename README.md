@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Languages** | Python, C++, TypeScript |
+| **Languages** | Python, C++ |
 | **AI / ML** | Machine learning,Deep learning, LangChain, LangGraph, RAG, HuggingFace Transformers, Sentence-Transformers, Scikit-learn |
 | **Backend** | Flask, FastAPI, PostgreSQL, SQLite |
 | **Frontend** | React, Javascript |

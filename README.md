@@ -22,13 +22,13 @@
 
 ##  Featured projects
 
-**[Multi-Agent Orchestration System]**
+**Multi-Agent Orchestration System**
 Four specialised AI agents (engineering, creative, economic, ethical) evaluate an idea from different angles, and their outputs are synthesised into one recommendation. RAG with FAISS and Sentence-Transformers, Flask API, React + TypeScript frontend. *Innovate and Build finalist.*
 
-**[Skill-Based Matching Platform]**
+**Skill-Based Matching Platform**
 Full-stack app that matches volunteers with opportunities using a hybrid recommender (collaborative + content-based filtering). Flask REST API and PostgreSQL.
 
-**[Predictive Aviation Analytics Pipeline]**
+**Predictive Aviation Analytics Pipeline**
 End-to-end pipeline over 1.7M+ US flight records for delay prediction: cleaning, feature engineering, PCA, and an interactive Streamlit dashboard.
 
 
@@ -36,5 +36,6 @@ End-to-end pipeline over 1.7M+ US flight records for delay prediction: cleaning,
 
 LinkedIn:
 www.linkedin.com/in/karthick-n-18909332a
+
 Email:
 nkarthick564@gmail.com

@@ -11,7 +11,7 @@
 | **Backend** | Flask, FastAPI, PostgreSQL, SQLite |
 | **Frontend** | React, Javascript |
 | **Tools** | Linux, Git, Docker |
-
+| **CS-Fundamentals** | DBMS , Computer Networking , OOPS | 
 
 ##  Experience
 
